@@ -1,10 +1,7 @@
 package com.openclassrooms.course.springboot.activitych3.configuration;
 
-import static org.assertj.core.api.Assertions.assertThat;
-
-import java.io.IOException;
-import java.util.List;
-
+import com.openclassrooms.course.springboot.activitych3.entities.Rent;
+import com.opencsv.bean.CsvToBeanBuilder;
 import org.assertj.core.util.Arrays;
 import org.junit.Ignore;
 import org.junit.Test;
@@ -14,8 +11,9 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.context.ApplicationContext;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.openclassrooms.course.springboot.activitych3.entities.Rent;
-import com.opencsv.bean.CsvToBeanBuilder;
+import java.util.List;
+
+import static org.assertj.core.api.Assertions.assertThat;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = {CsvBuilder.class})
@@ -26,9 +24,6 @@ public class CsvBuilderTest {
 
 	@Autowired
 	CsvToBeanBuilder<Rent> csvToBeanBuilder;
-	
-	@Autowired
-	CsvBuilder csvBuilder;
 
 	@Test
 	public void testCsvBuilderToBeanIsCreated() {
@@ -36,9 +31,8 @@ public class CsvBuilderTest {
 	}
 
 	@Test
-	public void testCsvFileIsParsed() throws IOException {
-//		List<Rent> rents = csvToBeanBuilder.build().parse();
-		List<Rent> rents = csvBuilder.getCsvToBeanBuilder().build().parse();
+	public void testCsvFileIsParsed() {
+		List<Rent> rents = csvToBeanBuilder.build().parse();
 		assertThat(rents.size()).isEqualTo(453);
 	}
 	

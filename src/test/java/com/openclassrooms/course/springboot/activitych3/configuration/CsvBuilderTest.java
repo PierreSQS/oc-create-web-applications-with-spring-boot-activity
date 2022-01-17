@@ -18,7 +18,7 @@ import com.openclassrooms.course.springboot.activitych3.entities.Rent;
 import com.opencsv.bean.CsvToBeanBuilder;
 
 @RunWith(SpringRunner.class)
-@SpringBootTest
+@SpringBootTest(classes = {CsvBuilder.class})
 public class CsvBuilderTest {
 	
 	@Autowired

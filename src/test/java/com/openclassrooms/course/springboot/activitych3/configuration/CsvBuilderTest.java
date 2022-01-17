@@ -22,17 +22,9 @@ public class CsvBuilderTest {
 	@Autowired
 	ApplicationContext appCtx;
 
-	@Autowired
-	CsvToBeanBuilder<Rent> csvToBeanBuilder;
-
-	@Test
-	public void testCsvBuilderToBeanIsCreated() {
-		assertThat(csvToBeanBuilder).isNotNull();
-	}
-
 	@Test
 	public void testCsvFileIsParsed() {
-		List<Rent> rents = csvToBeanBuilder.build().parse();
+		List<Rent> rents = ((CsvToBeanBuilder<Rent>)(appCtx.getBean("getCsvToBeanBuilder"))).build().parse();
 		assertThat(rents.size()).isEqualTo(453);
 	}
 	

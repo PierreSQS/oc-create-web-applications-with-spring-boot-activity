@@ -1,0 +1,454 @@
+id,city,country,rent
+1,San Francisco,United States,3389.86
+2,New York,United States,3125
+3,Dublin,Ireland,2594
+4,San Jose,United States,2521.46
+5,Brooklyn,United States,2518.99
+6,Oakland,United States,2486.58
+7,Boston,United States,2380.27
+8,Berkeley,United States,2371.05
+9,Hong Kong,Hong Kong,2287.26
+10,London,United Kingdom,2265.6
+11,Washington,United States,2256.34
+12,Los Angeles,United States,2153.67
+13,Ajman,United Arab Emirates,2105.84
+14,Seattle,United States,1993.8
+15,Singapore,Singapore,1971.66
+16,San Diego,United States,1965.53
+17,Geneva,Switzerland,1932.3
+18,Sydney,Australia,1862.37
+19,Miami,United States,1842.21
+20,Chicago,United States,1772.72
+21,Amsterdam,Netherlands,1734
+22,Honolulu,United States,1720
+23,Santa Rosa,United States,1691.79
+24,Reykjavik,Iceland,1681.04
+25,Zurich,Switzerland,1679.27
+26,Denver,United States,1672.54
+27,Austin,United States,1653.63
+28,Luxembourg,Luxembourg,1624.97
+29,Dubai,United Arab Emirates,1590.64
+30,Boulder,United States,1564.29
+31,Portland,United States,1554.87
+32,Philadelphia,United States,1548.82
+33,Nashville,United States,1541.73
+34,Toronto,Canada,1527.2
+35,Ann Arbor,United States,1495.83
+36,Atlanta,United States,1490.29
+37,Sacramento,United States,1488.25
+38,Doha,Qatar,1473.32
+39,Minneapolis,United States,1463.35
+40,Vancouver,Canada,1462.97
+41,Copenhagen,Denmark,1425.31
+42,Charlotte,United States,1417.95
+43,Abu Dhabi,United Arab Emirates,1417.59
+44,Oslo,Norway,1408.26
+45,Lausanne,Switzerland,1389.78
+46,Oxford,United Kingdom,1381.28
+47,Melbourne,Australia,1372.32
+48,Dallas,United States,1355.11
+49,Baltimore,United States,1350.42
+50,Orlando,United States,1347.99
+51,Cambridge,United Kingdom,1346.98
+52,Houston,United States,1343.56
+53,Tampa,United States,1340.1
+54,Paris,France,1336.64
+55,Tel Aviv-Yafo,Israel,1333.17
+56,Canberra,Australia,1303.22
+57,Lugano,Switzerland,1296.76
+58,Stockholm,Sweden,1289.29
+59,Mississauga,Canada,1275.2
+60,Munich,Germany,1255.14
+61,Trondheim,Norway,1248.43
+62,Gold Coast,Australia,1241.47
+63,Brighton,United Kingdom,1238.95
+64,Auckland,New Zealand,1233.45
+65,Cork,Ireland,1233.31
+66,Brisbane,Australia,1227.56
+67,Anchorage,United States,1223.81
+68,Phoenix,United States,1219.59
+69,Basel,Switzerland,1207.95
+70,Richmond,United States,1198.84
+71,Raleigh,United States,1197.68
+72,Tacoma,United States,1194.1
+73,Madison,United States,1187.57
+74,Salt Lake City,United States,1182.92
+75,Asheville,United States,1181.94
+76,Utrecht,Netherlands,1163.91
+77,Milan,Italy,1160.33
+78,Wellington,New Zealand,1153.31
+79,Bergen,Norway,1148.55
+80,Rome,Italy,1146.08
+81,Stavanger,Norway,1134.79
+82,Indianapolis,United States,1133.49
+83,Pittsburgh,United States,1131
+84,Reno,United States,1128.26
+85,The Hague (Den Haag),Netherlands,1123.82
+86,Rotterdam,Netherlands,1118.59
+87,Bristol,United Kingdom,1116.03
+88,San Antonio,United States,1099.5
+89,Lagos,Nigeria,1097.42
+90,Victoria,Canada,1090.29
+91,Reading,United Kingdom,1082.16
+92,Galway,Ireland,1071.63
+93,Tokyo,Japan,1068.44
+94,Columbus,United States,1066.96
+95,Cleveland,United States,1060.53
+96,Barcelona,Spain,1059.59
+97,Hamburg,Germany,1048.16
+98,Albany,United States,1047.92
+99,Milwaukee,United States,1040
+100,Colorado Springs,United States,1038.33
+101,Jacksonville,United States,1036.68
+102,Helsinki,Finland,1034.97
+103,Jerusalem,Israel,1032.23
+104,Perth,Australia,1024.83
+105,Cincinnati,United States,1017.87
+106,Frankfurt,Germany,1017.37
+107,Newcastle,Australia,1016.76
+108,Sliema,Malta,1014.54
+109,Beijing,China,1009.16
+110,Madrid,Spain,1006.33
+111,Kansas City,United States,1005.03
+112,Bern,Switzerland,999.55
+113,Suva,Fiji,997.68
+114,Ramat Gan,Israel,993.93
+115,Boise,United States,992.25
+116,Edinburgh,United Kingdom,991.16
+117,Eindhoven,Netherlands,984.92
+118,Adelaide,Australia,984.27
+119,Lisbon,Portugal,981.85
+120,Kuwait City,Kuwait,981.82
+121,Berlin,Germany,981.04
+122,Stuttgart,Germany,973.91
+123,Buffalo,United States,971.36
+124,Leiden,Netherlands,970.69
+125,Birmingham,United Kingdom,970.56
+126,Darwin,Australia,967.39
+127,Manchester,United Kingdom,963.45
+128,Las Vegas,United States,962.14
+129,Shanghai,China,958.47
+130,Vienna,Austria,956.81
+131,Kelowna,Canada,954.92
+132,Ottawa,Canada,952.34
+133,Edmonton,Canada,948.15
+134,Panama City,Panama,946.55
+135,Calgary,Canada,945.98
+136,Saint Louis,United States,945.93
+137,Eugene,United States,943.75
+138,Portsmouth,United Kingdom,938.15
+139,Southampton,United Kingdom,937.2
+140,Palma de Mallorca,Spain,934.78
+141,Nassau,Bahamas,927.27
+142,Brussels,Belgium,927.24
+143,Arhus,Denmark,923.89
+144,Knoxville,United States,920.83
+145,Beirut,Lebanon,919.38
+146,Gothenburg,Sweden,918.93
+147,Christchurch,New Zealand,903.85
+148,Limerick,Ireland,902.1
+149,Memphis,United States,901.82
+150,Moscow,Russia,896.21
+151,Cardiff,United Kingdom,896.04
+152,Manama,Bahrain,895.96
+153,Albuquerque,United States,882.5
+154,Maastricht,Netherlands,882.15
+155,Florence,Italy,879.1
+156,Rochester,United States,872.47
+157,Liverpool,United Kingdom,859.05
+158,Limassol,Cyprus,850.75
+159,Leeds,United Kingdom,846.21
+160,Groningen,Netherlands,845.29
+161,Coventry,United Kingdom,843.74
+162,Hobart,Australia,841.03
+163,Delft,Netherlands,840.35
+164,Fresno,United States,834.44
+165,Belfast,United Kingdom,832.63
+166,Tulsa,United States,832
+167,Montreal,Canada,820.92
+168,Glasgow,United Kingdom,819.11
+169,Taipei,Taiwan,817.99
+170,Regina,Canada,814.36
+171,Louisville,United States,811.79
+172,Kitchener,Canada,809.74
+173,Newcastle upon Tyne,United Kingdom,807.25
+174,Cologne,Germany,806.86
+175,Gent,Belgium,806.19
+176,Prague,Czech Republic,804.87
+177,Halifax,Canada,799.68
+178,Little Rock,United States,798.75
+179,Dusseldorf,Germany,797.11
+180,Dunedin,New Zealand,792.32
+181,Antwerp,Belgium,791.47
+182,Malmo,Sweden,788.53
+183,Leuven,Belgium,771.12
+184,Cape Town,South Africa,770.35
+185,Uppsala,Sweden,767.73
+186,Bologna,Italy,765.76
+187,Sheffield,United Kingdom,765.46
+188,Lyon,France,760.41
+189,Aberdeen,United Kingdom,759.94
+190,Tampere,Finland,756.87
+191,Leicester,United Kingdom,755.93
+192,Bonn,Germany,754.47
+193,Sharjah,United Arab Emirates,748.67
+194,Hamilton,Canada,746.3
+195,Porto,Portugal,746.16
+196,Nottingham,United Kingdom,745.36
+197,Nuremberg,Germany,743.89
+198,London,Canada,743.06
+199,Hanover,Germany,737.52
+200,Tucson,United States,735
+201,Heidelberg,Germany,732.36
+202,Shenzhen,China,731.63
+203,Malaga,Spain,726.63
+204,Winnipeg,Canada,721.02
+205,Linz,Austria,713.29
+206,Saskatoon,Canada,709.45
+207,Seoul,South Korea,702.84
+208,Red Deer,Canada,699.66
+209,Aalborg,Denmark,696.91
+210,San Juan,Puerto Rico,695
+211,Bangkok,Thailand,685.62
+212,Lille,France,684.65
+213,Las Palmas de Gran Canaria,Spain,682.23
+214,Muscat,Oman,681.65
+215,Seville (Sevilla),Spain,681.6
+216,Toulouse,France,674.73
+217,Osaka,Japan,665.65
+218,Saint John's,Canada,664.89
+219,Bratislava,Slovakia,658.92
+220,Valencia,Spain,657.62
+221,Odense,Denmark,652.57
+222,Dundee,United Kingdom,646.49
+223,Derby,United Kingdom,642.58
+224,Haifa,Israel,641.89
+225,Warsaw,Poland,640.89
+226,Karlsruhe,Germany,631.79
+227,Strasbourg,France,630.95
+228,Santa Cruz de Tenerife,Spain,625.42
+229,Genoa,Italy,621.31
+230,Padova,Italy,618.5
+231,Graz,Austria,618.44
+232,Bremen,Germany,614.75
+233,Aachen,Germany,613.51
+234,Turin,Italy,612.25
+235,Mannheim,Germany,604.45
+236,Tehran,Iran,602.29
+237,Kingston upon Hull,United Kingdom,598.98
+238,Ljubljana,Slovenia,597.08
+239,Mumbai,India,596.8
+240,Dresden,Germany,593.51
+241,Wroclaw,Poland,583.51
+242,Naples,Italy,582.99
+243,Leipzig,Germany,582.35
+244,Tallinn,Estonia,573.52
+245,Kuala Lumpur,Malaysia,568.21
+246,Brno,Czech Republic,563.41
+247,Krakow (Cracow),Poland,553.84
+248,Port of Spain,Trinidad And Tobago,553.3
+249,Vilnius,Lithuania,548.53
+250,Gdansk,Poland,547.9
+251,Saint Petersburg,Russia,547.72
+252,Nicosia,Cyprus,545.67
+253,Guangzhou,China,543.35
+254,Mexico City,Mexico,538.62
+255,Pattaya,Thailand,534.1
+256,Budapest,Hungary,532.54
+257,Granada,Spain,529.07
+258,Palermo,Italy,526.49
+259,Manila,Philippines,522.32
+260,Alicante,Spain,522.11
+261,Kiev,Ukraine,520.96
+262,Quebec City,Canada,517.43
+263,Santiago,Chile,507.03
+264,Kosice,Slovakia,506.05
+265,Kingston,Jamaica,503.69
+266,Zagreb,Croatia,496.72
+267,Montevideo,Uruguay,493.28
+268,Sao Paulo,Brazil,492.23
+269,Guatemala City,Guatemala,490.17
+270,San Jose,Costa Rica,487.65
+271,Phnom Penh,Cambodia,484.33
+272,Guayaquil,Ecuador,482.14
+273,Cebu,Philippines,481.72
+274,San Salvador,El Salvador,480.56
+275,Braga,Portugal,479.81
+276,Larnaca,Cyprus,477.93
+277,Lima,Peru,474.34
+278,Casablanca,Morocco,462.14
+279,Rio de Janeiro,Brazil,454.02
+280,Coimbra,Portugal,453.84
+281,Nairobi,Kenya,453.65
+282,Johannesburg,South Africa,449.9
+283,Baghdad,Iraq,449.52
+284,Ho Chi Minh City,Vietnam,443.69
+285,Lublin,Poland,442.06
+286,Quito,Ecuador,441.35
+287,Gdynia,Poland,441.19
+288,Poznan,Poland,439.56
+289,Bucharest,Romania,434.61
+290,Tartu,Estonia,430.14
+291,Riga,Latvia,427.92
+292,Split,Croatia,426.67
+293,Rabat,Morocco,421.15
+294,Cluj-Napoca,Romania,417.86
+295,Amman,Jordan,417.46
+296,Olomouc,Czech Republic,412.57
+297,Riyadh,Saudi Arabia,409.81
+298,Bydgoszcz,Poland,407.05
+299,Ad Dammam,Saudi Arabia,400.37
+300,Sofia,Bulgaria,398.47
+301,Kaunas,Lithuania,396.87
+302,Bogota,Colombia,395.55
+303,Pretoria,South Africa,393.85
+304,Athens,Greece,392.22
+305,Jakarta,Indonesia,388.76
+306,Catania,Italy,383.15
+307,Debrecen,Hungary,382.22
+308,Szczecin,Poland,379.59
+309,Petaling Jaya,Malaysia,379.53
+310,Cancun,Mexico,378.85
+311,Lodz,Poland,376.66
+312,Hanoi,Vietnam,376.52
+313,Irbil,Iraq,375.71
+314,Santo Domingo,Dominican Republic,375.57
+315,Novosibirsk,Russia,370.59
+316,Belgrade,Serbia,370.25
+317,Chengdu,China,364.93
+318,Phuket,Thailand,362.13
+319,Cuenca,Ecuador,359.5
+320,Santa Cruz,Bolivia,359.21
+321,Chiang Mai,Thailand,357.5
+322,Harare,Zimbabwe,356.67
+323,Brasilia,Brazil,356.22
+324,Thessaloniki,Greece,355.45
+325,Kazan,Russia,354.62
+326,Katowice,Poland,353.87
+327,Yerevan,Armenia,352.44
+328,Yekaterinburg,Russia,350.77
+329,Durban,South Africa,348.15
+330,Minsk,Belarus,347.1
+331,Florianopolis,Brazil,344.58
+332,Klaipeda,Lithuania,344.39
+333,Nizhny Novgorod,Russia,343.69
+334,Maribor,Slovenia,343.42
+335,Brasov,Romania,341.49
+336,Lviv,Ukraine,337.12
+337,Podgorica,Montenegro,332.3
+338,La Paz,Bolivia,331.89
+339,Heraklion,Greece,331.74
+340,Astana,Kazakhstan,330.73
+341,Timisoara,Romania,326.61
+342,Tirana,Albania,325.15
+343,Perm,Russia,323.6
+344,Krasnodar,Russia,323.6
+345,Tijuana,Mexico,323.42
+346,Kharkiv,Ukraine,322.7
+347,Buenos Aires,Argentina,322.65
+348,Jeddah (Jiddah),Saudi Arabia,322.43
+349,Ulaanbaatar,Mongolia,322.09
+350,Rijeka,Croatia,319.34
+351,Monterrey,Mexico,317.64
+352,Ostrava,Czech Republic,317.25
+353,Samara,Russia,311.79
+354,Port Louis,Mauritius,308.91
+355,Dnipro,Ukraine,308.05
+356,Almaty,Kazakhstan,307.96
+357,Salvador,Brazil,306.64
+358,Tbilisi,Georgia,306.49
+359,Campinas,Brazil,306.37
+360,Istanbul,Turkey,306.13
+361,Iasi,Romania,303.35
+362,Dumaguete,Philippines,300.57
+363,Odessa,Ukraine,299.87
+364,Belo Horizonte,Brazil,298.05
+365,Curitiba,Brazil,294.98
+366,Szeged,Hungary,294.54
+367,Baku,Azerbaijan,293.69
+368,Guadalajara,Mexico,289.62
+369,Sarajevo,Bosnia And Herzegovina,286.28
+370,Sibiu,Romania,286.28
+371,Pristina,Kosovo (Disputed Territory),283.81
+372,Bishkek,Kyrgyzstan,278.27
+373,Queretaro,Mexico,274.37
+374,Varna,Bulgaria,273.34
+375,Surabaya,Indonesia,272.77
+376,Ploiesti,Romania,272.62
+377,Bali,Indonesia,271.29
+378,Krasnoyarsk,Russia,271.26
+379,Arad,Romania,268.88
+380,Porto Alegre,Brazil,265.18
+381,Algiers,Algeria,263.73
+382,Gurgaon,India,260.14
+383,Tomsk,Russia,260.06
+384,Kampala,Uganda,259.23
+385,Plovdiv,Bulgaria,258.97
+386,Medellin,Colombia,258.41
+387,Port Elizabeth,South Africa,257.88
+388,Patras,Greece,256.4
+389,Recife,Brazil,256.31
+390,Colombo,Sri Lanka,256.09
+391,Chisinau,Moldova,255.94
+392,Novi Sad,Serbia,253.13
+393,Merida,Mexico,250.84
+394,Skopje,Macedonia,250.84
+395,Osijek,Croatia,250.43
+396,Thane,India,249.5
+397,Constanta,Romania,249.18
+398,Craiova,Romania,246.33
+399,Tashkent,Uzbekistan,245
+400,Chelyabinsk,Russia,243.88
+401,Bangalore,India,241.86
+402,Voronezh,Russia,241.27
+403,Oradea,Romania,240.45
+404,Asuncion,Paraguay,228.68
+405,Banja Luka,Bosnia And Herzegovina,227.4
+406,Davao,Philippines,226.4
+407,Izmir,Turkey,226.28
+408,Delhi,India,224.79
+409,Penang,Malaysia,222.32
+410,Pune,India,222.25
+411,Burgas,Bulgaria,220.13
+412,Bandung,Indonesia,218.1
+413,Paramaribo,Suriname,213.32
+414,Barranquilla,Colombia,208.45
+415,Cairo,Egypt,204.17
+416,Caracas,Venezuela,203.33
+417,Ankara,Turkey,200.61
+418,Chennai,India,191.37
+419,Islamabad,Pakistan,186.22
+420,Nis,Serbia,184.77
+421,Tunis,Tunisia,182.43
+422,Cali,Colombia,173.41
+423,Antalya,Turkey,171.07
+424,Kathmandu,Nepal,170.21
+425,Hyderabad,India,169.59
+426,Bursa,Turkey,168.64
+427,Navi Mumbai,India,167.32
+428,Goa,India,164.47
+429,Noida,India,161.41
+430,Dhaka,Bangladesh,152.58
+431,Kochi,India,151.92
+432,Chandigarh,India,149.75
+433,Jaipur,India,148.76
+434,Kolkata,India,146.03
+435,Karachi,Pakistan,145.47
+436,Coimbatore,India,143.75
+437,Mangalore,India,138.71
+438,Lahore,Pakistan,134.02
+439,Alexandria,Egypt,133.53
+440,Vijayawada,India,132.1
+441,Ahmedabad,India,130.42
+442,Thiruvananthapuram,India,124.5
+443,Nagpur,India,120.89
+444,Lucknow (Lakhnau),India,117.57
+445,Guwahati,India,114.39
+446,Mysore,India,114.09
+447,Visakhapatnam,India,113.88
+448,Vadodara,India,112.35
+449,Indore,India,111.29
+450,Bhubaneswar,India,106.03
+451,Rawalpindi,Pakistan,105.93
+452,Bhopal,India,102.42
+453,Surat,India,88.87

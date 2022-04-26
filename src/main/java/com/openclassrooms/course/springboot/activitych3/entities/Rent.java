@@ -57,4 +57,14 @@ public class Rent {
     public void setRentPrice(Double rentPrice) {
         this.rentPrice = rentPrice;
     }
+
+    @Override
+    public String toString() {
+        return "Rent{" +
+                "id=" + id +
+                ", city='" + city + '\'' +
+                ", country='" + country + '\'' +
+                ", rentPrice=" + rentPrice +
+                '}';
+    }
 }

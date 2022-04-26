@@ -15,7 +15,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class RentRepositoryCsvImplTest {
 	
 	@Autowired
-	private RentRepositoryCsvImpl rentRepoCsv;
+	RentRepository rentRepoCsv;
 
 	@BeforeAll
 	public static void setUpBeforeClass() {

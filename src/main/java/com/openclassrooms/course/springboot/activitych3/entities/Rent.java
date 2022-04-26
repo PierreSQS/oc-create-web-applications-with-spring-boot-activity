@@ -13,7 +13,7 @@ public class Rent {
     @CsvBindByName
     private String country;
 
-    @CsvBindByName
+    @CsvBindByName(column = "rent")
     private Double rentPrice;
 
     public Rent() {

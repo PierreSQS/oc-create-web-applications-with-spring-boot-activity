@@ -18,7 +18,7 @@ public class RentRepositoryCsvImplTest {
 	RentRepository rentRepoCsv;
 
 	@BeforeAll
-	public static void setUpBeforeClass() {
+	public static void setUpBeforeAll() {
 	}
 
 	@BeforeEach

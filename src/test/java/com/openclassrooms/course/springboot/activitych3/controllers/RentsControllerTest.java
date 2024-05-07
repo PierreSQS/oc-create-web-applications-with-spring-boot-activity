@@ -44,7 +44,7 @@ public class RentsControllerTest {
 	}
 
 	@Test
-	void testgetRentForCityInCurrency() throws Exception {
+	void testGetRentForCityInCurrency() throws Exception {
 		// given
 		Rent rent = new Rent(1, "Paris", "France", 22.5);
 		MultiValueMap<String, String> multiValueMap = new LinkedMultiValueMap<>();

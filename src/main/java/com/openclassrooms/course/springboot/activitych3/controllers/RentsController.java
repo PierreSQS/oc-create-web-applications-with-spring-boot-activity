@@ -19,7 +19,7 @@ import com.openclassrooms.course.springboot.activitych3.services.RentService;
  * The rental cost in those cities in USD are stored in rents.csv in CSV format.
  * The exchange rate however is retrieved dynamically on the fly from an external API
  * <p>
- * Start the application and go to http://localhost:8080/rent?city=sydney&currency=AUD on your browser
+ * Start the application and go to <a href="http://localhost:8080/rent?city=sydney&currency=AUD">...</a> on your browser
  * to see how it works
  */
 
@@ -38,7 +38,7 @@ public class RentsController {
     }
 
     /**
-     * e.g. http://localhost:8080/rent?city=sydney&currency=AUD
+     * e.g. <a href="http://localhost:8080/rent?city=sydney&currency=AUD">...</a>
      *
      * @param city     the city that the apartment is located in
      * @param currency the currency we want to see the rental cost in

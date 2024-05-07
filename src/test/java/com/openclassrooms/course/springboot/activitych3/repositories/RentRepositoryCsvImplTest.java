@@ -28,7 +28,7 @@ public class RentRepositoryCsvImplTest {
 	@Test
 	void testParsedRentList() {
 		List<Rent> rentList = rentRepoCsv.getRentList();
-		assertThat(rentList.size()).isEqualTo(453);
+		assertThat(rentList).hasSize(453);
 	}
 
 }
